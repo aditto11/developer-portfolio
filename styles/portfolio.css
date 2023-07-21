@@ -25,7 +25,7 @@ body {
     font-weight: 700;
 }
 
-.section-discription {
+.section-description {
     color: #757575;
     text-align: center;
     font-size: 18px;
@@ -98,7 +98,7 @@ nav a {
     margin-bottom: 20px;
 }
 
-.banner-discription {
+.banner-description {
     margin-top: 0;
 }
 
@@ -136,7 +136,7 @@ main section {
     font-weight: 400;
 }
 
-.info-discription {
+.info-description {
     color: #474747;
     font-size: 20px;
     font-weight: 700;
@@ -145,7 +145,7 @@ main section {
 /* skills related styles: */
 
 
-#what-i-do-discription {
+#what-i-do-description {
     padding: 30px 150px;
 }
 
@@ -161,7 +161,7 @@ main section {
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
 }
 
-.skills-discription {
+.skills-description {
     color: #757575;
 }
 
@@ -207,4 +207,12 @@ main section {
 .download-cv{
     margin-top: 50px;
     text-align: center;
+    margin-bottom: 100px;
+}
+/* footer styles: */
+
+footer{
+    display: flex;
+    background-color: #FFF8F3;
+    padding: 130px 200px;
 }
